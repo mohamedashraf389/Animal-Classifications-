@@ -156,7 +156,5 @@ The model successfully classifies unseen images into cat or dog classes based on
 - Add a simple GUI for prediction
 - Deploy as a web application
 
-## Contact
 
-Created by [Saleh Ahmed Saleh Zahran] - feel free to reach out or contribute to the project.
 
